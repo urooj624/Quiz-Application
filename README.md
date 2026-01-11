@@ -46,6 +46,6 @@ The system accepts user input, checks answers, and displays results smoothly, so
 2. **Quiz** – Manages quiz flow and scoring  
 3. **QuizApp** – Main class; starts the quiz  
 
-<img src="images/quizapplicationss.png" alt="Quiz Application Screenshot" width="600">
+<img src="quizapplicationss.png" alt="Quiz Application Screenshot" width="600">
 
 
